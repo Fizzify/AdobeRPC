@@ -1,5 +1,6 @@
 Poggers!
 Author: atultw
+Original Link: https://github.com/Fizzify/AdobeRPC/commits/master/README.md?author=atultw
 
 # AdobeRPC
 Discord rich presence for your Adobe apps that *actually works*. Install and you're good to go!
